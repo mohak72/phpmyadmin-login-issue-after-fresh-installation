@@ -1,0 +1,1 @@
+# phpmyadmin-login-issue-after-fresh-installation
